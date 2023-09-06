@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Dom.js"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "English Unicorns Draft repo"
+	}
+}
